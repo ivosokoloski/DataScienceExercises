@@ -43,12 +43,6 @@ Within the repository, the following topics and methodologies are covered:
 * **Visualization:** Matplotlib, Seaborn
 * **Environment:** Jupyter Notebook
 
-## 📂 Structure
-The repository is organized by exercises/modules, where each section covers:
-1. **Data Acquisition:** Loading and initial inspection of datasets.
-2. **Preprocessing:** Cleaning, transforming, and preparing data for modeling.
-3. **Modeling:** Architecture definition, training, and optimization.
-4. **Evaluation:** Detailed metrics and visualization of model results.
 
 ---
 *This repository is intended for educational purposes and serves as a portfolio for advanced AI and Data Science concepts.*
